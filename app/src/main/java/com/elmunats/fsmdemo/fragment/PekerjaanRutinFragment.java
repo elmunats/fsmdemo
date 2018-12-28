@@ -9,6 +9,8 @@ import android.view.InflateException;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import com.elmunats.fsmdemo.R;
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -44,6 +46,10 @@ public class PekerjaanRutinFragment extends Fragment implements OnMapReadyCallba
         mapView.onCreate(savedInstanceState);
         mapView.onResume();
         mapView.getMapAsync(this);
+
+        ListView listView = view.findViewById(R.id.listview);
+        listView.setAdapter(new ArrayAdapter<String>(view.getContext(), android.R.layout.simple_list_item_1,
+                new String[]{"Copy","Paste","Cut","Delete", "Convert","Open"}));
 
         return view;
     }

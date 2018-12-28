@@ -43,7 +43,7 @@
                 android:textSize="16sp"
                 android:paddingStart="15dp"
                 android:layout_centerVertical="true"
-                android:text="Action"/>
+                android:text="Daftar Pekerjaan"/>
         </RelativeLayout>
         <ListView
             android:layout_width="match_parent"

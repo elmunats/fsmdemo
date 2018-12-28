@@ -49,7 +49,7 @@ public class PekerjaanRutinFragment extends Fragment implements OnMapReadyCallba
 
         ListView listView = view.findViewById(R.id.listview);
         listView.setAdapter(new ArrayAdapter<String>(view.getContext(), android.R.layout.simple_list_item_1,
-                new String[]{"Copy","Paste","Cut","Delete", "Convert","Open"}));
+                new String[]{"Ngepel","Nyapu","Cuci Piring","Angkat Galon", "Ganti Presiden","Lamp Kaca"}));
 
         return view;
     }

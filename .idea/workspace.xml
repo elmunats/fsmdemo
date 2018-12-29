@@ -15,7 +15,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dce30950-aa68-4512-83a3-d44a7d6ed038" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
@@ -24,9 +23,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +53,25 @@
       <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5688">
-              <caret line="352" column="14" selection-start-line="352" selection-start-column="14" selection-end-line="352" selection-end-column="14" />
+            <state relative-caret-position="148">
+              <caret line="83" column="37" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
+              <folding>
+                <element signature="e#2541#3049#0" expanded="true" />
+                <element signature="e#3048#3049#0" expanded="true" />
+                <element signature="e#3179#3450#0" expanded="true" />
+                <element signature="e#3449#3450#0" expanded="true" />
+                <element signature="e#3999#4028#0" expanded="true" />
+                <element signature="e#4110#4432#0" expanded="true" />
+                <element signature="e#4431#4432#0" expanded="true" />
+                <element signature="e#6128#6170#0" expanded="true" />
+                <element signature="e#6366#6406#0" expanded="true" />
+                <element signature="e#6547#6586#0" expanded="true" />
+                <element signature="e#8150#8387#0" expanded="true" />
+                <element signature="e#8386#8387#0" expanded="true" />
+                <element signature="e#8581#8817#0" expanded="true" />
+                <element signature="e#8816#8817#0" expanded="true" />
+                <element signature="e#12506#12550#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +79,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="118" column="32" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
+            <state relative-caret-position="378">
+              <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
               <folding>
                 <element signature="e#2078#2109#0" expanded="true" />
                 <element signature="e#2111#2143#0" expanded="true" />
@@ -98,13 +116,13 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="34" column="45" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="45" />
+            <state relative-caret-position="54">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
               <folding>
-                <element signature="e#637#655#0" expanded="true" />
-                <element signature="e#888#918#0" expanded="true" />
-                <element signature="e#1016#1034#0" expanded="true" />
-                <element signature="e#1364#1403#0" expanded="true" />
+                <element signature="e#743#761#0" expanded="true" />
+                <element signature="e#988#1018#0" expanded="true" />
+                <element signature="e#1116#1134#0" expanded="true" />
+                <element signature="e#1598#1637#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,8 +146,8 @@
       <file leaf-file-name="SplashScreen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/SplashScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="108">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,6 +201,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>button</find>
+      <find>library</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2466,11 +2485,11 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/fragment/PekerjaanRutinFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/user_profile_image_background.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/SplashScreen.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
@@ -2524,6 +2543,11 @@
             <path>
               <item name="fsmdemo" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
+            </path>
+            <path>
+              <item name="fsmdemo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
             </path>
             <path>
@@ -2559,7 +2583,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="device.picker.selection" value="d28aca98" />
+    <property name="device.picker.selection" value="Pixel" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
   <component name="RecentsManager">
@@ -2698,6 +2722,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="-11" width="1317" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -2705,16 +2730,16 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5027581" side_tool="true" visible="true" weight="0.32917318" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49881798" weight="0.32917318" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500394" side_tool="true" visible="true" weight="0.27925116" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4972419" weight="0.32917318" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4972419" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4964539" weight="0.32917318" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.32917318" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24507487" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.27925116" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24507487" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49960598" visible="true" weight="0.27925116" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
@@ -2739,6 +2764,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5688">
           <caret line="352" column="14" selection-start-line="352" selection-start-column="14" selection-end-line="352" selection-end-column="14" />
+          <folding>
+            <element signature="e#2541#3049#0" expanded="true" />
+            <element signature="e#3048#3049#0" expanded="true" />
+            <element signature="e#3179#3450#0" expanded="true" />
+            <element signature="e#3449#3450#0" expanded="true" />
+            <element signature="e#3999#4028#0" expanded="true" />
+            <element signature="e#4110#4432#0" expanded="true" />
+            <element signature="e#4431#4432#0" expanded="true" />
+            <element signature="e#6128#6170#0" expanded="true" />
+            <element signature="e#6366#6406#0" expanded="true" />
+            <element signature="e#6547#6586#0" expanded="true" />
+            <element signature="e#8150#8387#0" expanded="true" />
+            <element signature="e#8386#8387#0" expanded="true" />
+            <element signature="e#8581#8817#0" expanded="true" />
+            <element signature="e#8816#8817#0" expanded="true" />
+            <element signature="e#12506#12550#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2825,10 +2867,10 @@
         <state relative-caret-position="684">
           <caret line="38" column="72" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="72" />
           <folding>
-            <element signature="e#637#655#0" expanded="true" />
-            <element signature="e#888#918#0" expanded="true" />
-            <element signature="e#1016#1034#0" expanded="true" />
-            <element signature="e#1364#1403#0" expanded="true" />
+            <element signature="e#743#761#0" expanded="true" />
+            <element signature="e#988#1018#0" expanded="true" />
+            <element signature="e#1116#1134#0" expanded="true" />
+            <element signature="e#1598#1637#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2948,13 +2990,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5688">
-          <caret line="352" column="14" selection-start-line="352" selection-start-column="14" selection-end-line="352" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -2967,8 +3002,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/SplashScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="108">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2977,8 +3012,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="118" column="32" selection-start-line="118" selection-start-column="32" selection-end-line="118" selection-end-column="32" />
+        <state relative-caret-position="378">
+          <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
           <folding>
             <element signature="e#2078#2109#0" expanded="true" />
             <element signature="e#2111#2143#0" expanded="true" />
@@ -2986,15 +3021,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/elmunats/fsmdemo/activity/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="83" column="37" selection-start-line="83" selection-start-column="37" selection-end-line="83" selection-end-column="37" />
+          <folding>
+            <element signature="e#2541#3049#0" expanded="true" />
+            <element signature="e#3048#3049#0" expanded="true" />
+            <element signature="e#3179#3450#0" expanded="true" />
+            <element signature="e#3449#3450#0" expanded="true" />
+            <element signature="e#3999#4028#0" expanded="true" />
+            <element signature="e#4110#4432#0" expanded="true" />
+            <element signature="e#4431#4432#0" expanded="true" />
+            <element signature="e#6128#6170#0" expanded="true" />
+            <element signature="e#6366#6406#0" expanded="true" />
+            <element signature="e#6547#6586#0" expanded="true" />
+            <element signature="e#8150#8387#0" expanded="true" />
+            <element signature="e#8386#8387#0" expanded="true" />
+            <element signature="e#8581#8817#0" expanded="true" />
+            <element signature="e#8816#8817#0" expanded="true" />
+            <element signature="e#12506#12550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="45" />
+        <state relative-caret-position="54">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
           <folding>
-            <element signature="e#637#655#0" expanded="true" />
-            <element signature="e#888#918#0" expanded="true" />
-            <element signature="e#1016#1034#0" expanded="true" />
-            <element signature="e#1364#1403#0" expanded="true" />
+            <element signature="e#743#761#0" expanded="true" />
+            <element signature="e#988#1018#0" expanded="true" />
+            <element signature="e#1116#1134#0" expanded="true" />
+            <element signature="e#1598#1637#0" expanded="true" />
           </folding>
         </state>
       </provider>
